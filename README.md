@@ -4,7 +4,7 @@
 # Deploy
 ***
 Vercel
-## Enlace para visitar el site web: https://practicando-grid.vercel.app/
+## Visitar el site web: https://practicando-grid.vercel.app/
 ***
 
 # Tecnologias usadas 🛠️
